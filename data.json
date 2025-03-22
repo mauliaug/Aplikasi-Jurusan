@@ -1,0 +1,159 @@
+{
+  "jurusan": [
+    {
+      "id": "lrd9xc7h3kpl567",
+      "nama": "Psikologi",
+      "kode": "PSI",
+      "fakultas": "Fakultas Pendidikan Psikologi",
+      "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA...",
+      "mataKuliah": [
+        {
+          "id": "lrd9zk8j4hgf123",
+          "nama": "Psikologi Umum",
+          "semester": "1",
+          "sks": "3",
+          "bahanKajian": "Pengantar konsep dasar psikologi",
+          "cpmk": "Mahasiswa mampu memahami dan menjelaskan konsep dasar psikologi",
+          "metodePembelajaran": "Diskusi kelompok, ceramah, studi kasus",
+          "modalitasPembelajaran": "Tatap muka, daring"
+        },
+        {
+          "id": "lrda1p9k5hgf456",
+          "nama": "Psikologi Perkembangan",
+          "semester": "2",
+          "sks": "4",
+          "bahanKajian": "Tahapan perkembangan manusia",
+          "cpmk": "Mahasiswa mampu menganalisis tahapan perkembangan manusia",
+          "metodePembelajaran": "Project-based learning, diskusi",
+          "modalitasPembelajaran": "Tatap muka, praktikum"
+        }
+      ]
+    },
+    {
+      "id": "lrda3c8j5klp789",
+      "nama": "Teknik Informatika",
+      "kode": "TI",
+      "fakultas": "Fakultas Ilmu Komputer",
+      "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUh...",
+      "mataKuliah": [
+        {
+          "id": "lrda5g7k3hgf234",
+          "nama": "Algoritma dan Pemrograman",
+          "semester": "1",
+          "sks": "4",
+          "bahanKajian": "Dasar-dasar algoritma dan pemrograman",
+          "cpmk": "Mahasiswa mampu memahami dan mengimplementasikan algoritma dasar",
+          "metodePembelajaran": "Praktikum, ceramah, penugasan",
+          "modalitasPembelajaran": "Tatap muka, lab komputer"
+        },
+        {
+          "id": "lrda7j5k2hgf567",
+          "nama": "Basis Data",
+          "semester": "3",
+          "sks": "3",
+          "bahanKajian": "Konsep database dan SQL",
+          "cpmk": "Mahasiswa mampu merancang dan mengimplementasikan database",
+          "metodePembelajaran": "Project-based learning, praktikum",
+          "modalitasPembelajaran": "Tatap muka, daring"
+        }
+      ]
+    },
+    {
+      "id": "lrda9m4k7lpo890",
+      "nama": "Pendidikan Matematika",
+      "kode": "PMAT",
+      "fakultas": "Fakultas Matematika dan Ilmu Pengetahuan Alam",
+      "logo": "data:image/png;base64,iVBORw0KGgoAA...",
+      "mataKuliah": [
+        {
+          "id": "lrdab9j6hgf345",
+          "nama": "Kalkulus I",
+          "semester": "1",
+          "sks": "4",
+          "bahanKajian": "Limit, turunan, dan integral",
+          "cpmk": "Mahasiswa mampu menyelesaikan masalah matematika menggunakan konsep kalkulus",
+          "metodePembelajaran": "Ceramah, latihan soal, diskusi",
+          "modalitasPembelajaran": "Tatap muka"
+        },
+        {
+          "id": "lrdac7k4hgf678",
+          "nama": "Aljabar Linear",
+          "semester": "2",
+          "sks": "3",
+          "bahanKajian": "Matriks, determinan, dan vektor",
+          "cpmk": "Mahasiswa mampu mengaplikasikan konsep aljabar linear",
+          "metodePembelajaran": "Ceramah, problem-solving",
+          "modalitasPembelajaran": "Tatap muka, daring"
+        }
+      ]
+    },
+    {
+      "id": "lrdae5k8lpo123",
+      "nama": "Kedokteran",
+      "kode": "MED",
+      "fakultas": "Fakultas Kedokteran",
+      "logo": "data:image/png;base64,iVBORw0KGgoAAAA...",
+      "mataKuliah": [
+        {
+          "id": "lrdag3j7hgf456",
+          "nama": "Anatomi Manusia",
+          "semester": "1",
+          "sks": "5",
+          "bahanKajian": "Struktur tubuh manusia",
+          "cpmk": "Mahasiswa mampu mengidentifikasi dan menjelaskan struktur tubuh manusia",
+          "metodePembelajaran": "Praktikum, ceramah, demonstrasi",
+          "modalitasPembelajaran": "Tatap muka, laboratorium"
+        },
+        {
+          "id": "lrdai8k5hgf789",
+          "nama": "Fisiologi",
+          "semester": "2",
+          "sks": "4",
+          "bahanKajian": "Fungsi organ dan sistem tubuh manusia",
+          "cpmk": "Mahasiswa mampu menganalisis mekanisme fungsi tubuh manusia",
+          "metodePembelajaran": "Case-based learning, praktikum",
+          "modalitasPembelajaran": "Tatap muka, daring"
+        }
+      ]
+    },
+    {
+      "id": "lrdak7j2lpo456",
+      "nama": "Manajemen",
+      "kode": "MAN",
+      "fakultas": "Fakultas Ekonomi dan Bisnis",
+      "logo": "data:image/png;base64,iVBORw0KGgoAAAANSU...",
+      "mataKuliah": [
+        {
+          "id": "lrdam9k3hgf012",
+          "nama": "Pengantar Manajemen",
+          "semester": "1",
+          "sks": "3",
+          "bahanKajian": "Konsep dasar manajemen dan bisnis",
+          "cpmk": "Mahasiswa mampu memahami prinsip-prinsip manajemen",
+          "metodePembelajaran": "Ceramah, diskusi, studi kasus",
+          "modalitasPembelajaran": "Tatap muka, daring"
+        },
+        {
+          "id": "lrdao5j7hgf345",
+          "nama": "Manajemen Keuangan",
+          "semester": "4",
+          "sks": "4",
+          "bahanKajian": "Pengelolaan keuangan organisasi",
+          "cpmk": "Mahasiswa mampu menganalisis dan mengelola keuangan organisasi",
+          "metodePembelajaran": "Project-based learning, simulasi",
+          "modalitasPembelajaran": "Tatap muka, lab komputer"
+        },
+        {
+          "id": "lrdaq8k2hgf678",
+          "nama": "Manajemen Strategik",
+          "semester": "spesialisasi",
+          "sks": "3",
+          "bahanKajian": "Perencanaan strategis organisasi",
+          "cpmk": "Mahasiswa mampu menyusun dan mengevaluasi strategi organisasi",
+          "metodePembelajaran": "Business case, presentasi, diskusi",
+          "modalitasPembelajaran": "Tatap muka, kunjungan industri"
+        }
+      ]
+    }
+  ]
+}

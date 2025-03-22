@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "lrd9v0hyjnrkuqt",
+      "nama": "Rasyd Alam Syah",
+      "email": "mauliagus12@gmail.com",
+      "jurusan": "Psikologi",
+      "universitas": "UNP",
+      "tanggal": "2024-03-21T14:32:45.123Z"
+    },
+    {
+      "id": "lrd9m3k8j5qpw21",
+      "nama": "Ahmad Fauzi",
+      "email": "ahmadfauzi@gmail.com",
+      "jurusan": "Teknik Informatika",
+      "universitas": "UIN",
+      "tanggal": "2024-03-20T10:15:32.453Z"
+    },
+    {
+      "id": "lrd9p7h2kfgt453",
+      "nama": "Siti Nurhaliza",
+      "email": "sitinur@student.unp.ac.id",
+      "jurusan": "Pendidikan Matematika",
+      "universitas": "UNP",
+      "tanggal": "2024-03-19T09:22:18.234Z"
+    },
+    {
+      "id": "lrd9qj87h3gtr78",
+      "nama": "Muhammad Rizki",
+      "email": "mrizki@gmail.com",
+      "jurusan": "Manajemen",
+      "universitas": "UNAND",
+      "tanggal": "2024-03-18T16:45:12.789Z"
+    },
+    {
+      "id": "lrd9t56j8klp098",
+      "nama": "Diana Putri",
+      "email": "dianaputri@student.unand.ac.id",
+      "jurusan": "Kedokteran",
+      "universitas": "UNAND",
+      "tanggal": "2024-03-17T13:28:56.321Z"
+    },
+    {
+      "id": "lrd9uh7j56kpl43",
+      "nama": "Budi Santoso",
+      "email": "budisantoso@gmail.com",
+      "jurusan": "Teknik Sipil",
+      "universitas": "ITB",
+      "tanggal": "2024-03-16T11:09:43.654Z"
+    }
+  ]
+}
